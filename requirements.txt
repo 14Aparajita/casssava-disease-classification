@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+keras
+pillow
+numpy
+opencv-python-headless
+Flask
+Flask-Cors
