@@ -27,7 +27,7 @@ The model analyzes uploaded images and provides not only a diagnosis but also a 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/14Aparajita/casssava-disease-classification
    cd cassava-disease-classification
    ```
 
